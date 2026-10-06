@@ -120,7 +120,7 @@ Things we need to do for the album and the songs on the album
 
 ## Growing Pain
 ### Aga
-
+- [ ] Bass
 ### Theó
 
 ### Michael
