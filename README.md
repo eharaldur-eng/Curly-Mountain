@@ -18,18 +18,28 @@ Things we need to do for the album and the songs on the album
 ## Friday Night
 ### Aga
 
+- [ ] Finish bass
+
 ### Theó
+
+- [ ] Record vocals
 
 ### Michael
 
+- [ ] Record
+
 ### Haraldur
+
+- [ ] Fix solo
 
 ### Everyone
 
+- [ ] 
 
 
 ## Going on a Trip
 ### Aga
+
 
 ### Theó
 
@@ -47,8 +57,10 @@ Things we need to do for the album and the songs on the album
 ### Aga
 
 ### Theó
+- [ ] Vocals
 
 ### Michael
+- [ ] Vocals
 
 ### Haraldur
 
@@ -97,6 +109,9 @@ Things we need to do for the album and the songs on the album
 ### Michael
 
 ### Haraldur
+
+- [ ] Take a look at guitar
+- [ ] Find wah
 
 ### Everyone
 
@@ -148,32 +163,36 @@ Things we need to do for the album and the songs on the album
 
 ## Huldufólk
 ### Aga
+- [ ] Vocals
 
 ### Theó
+- [ ] Vocals
 
 ### Michael
 
-### Haraldur
+- [ ] Synth
 
+### Haraldur
 
 ### Everyone
 
-
+- [ ] Bass
 
 
 ## Harmful Pony
 ### Aga
 
+- [ ] Bass
+
 ### Theó
 
 ### Michael
 
 ### Haraldur
 
-- [ ] Check out the guitar
+- [ ] Redo the second part of the guitar
 
 ### Everyone
-
 
 
 
@@ -188,6 +207,10 @@ Things we need to do for the album and the songs on the album
 
 ### Michael
 
+- [ ] Vocals
+
 ### Haraldur
+
+- [ ] Drink not of the water
 
 ### Everyone
