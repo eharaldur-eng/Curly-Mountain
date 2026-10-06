@@ -74,6 +74,8 @@ Things we need to do for the album and the songs on the album
 ## Match Sticks
 ### Aga
 
+Bass
+
 ### Theó
 
 ### Michael
@@ -211,6 +213,8 @@ Things we need to do for the album and the songs on the album
 
 ### Haraldur
 
-- [ ] Drink not of the water
+- [ ] Who art thouh
+- [ ] Drink not of the water on time
+- [ ] Do better guitar on the intro section
 
 ### Everyone
