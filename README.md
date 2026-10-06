@@ -34,8 +34,6 @@ Things we need to do for the album and the songs on the album
 
 ### Everyone
 
-- [ ] 
-
 
 ## Going on a Trip
 ### Aga
