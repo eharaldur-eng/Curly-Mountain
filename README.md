@@ -98,6 +98,7 @@ Bass
 
 - [ ] Perfect vocals
 - [ ] Record verse number 2
+- [ ] Record chorus guitar chords an octave above
 
 ### Everyone
 
